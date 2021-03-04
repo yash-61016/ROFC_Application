@@ -1,0 +1,37 @@
+/ Id Num :101,
+	Type Of Wood   :W,
+	Arm Rest       :true,
+	Price          :£112.50, 
+?
+/ Id Num :101,
+	Type Of Wood   :W,
+	Arm Rest       :true,
+	Price          :£112.50, 
+?
+/ Id Num :202,
+	Type Of Wood   :O,
+	Diameter       :76.0,
+	Base Type      :C,
+	Price          :£266.04, 
+?
+/ Id Num :303,
+	Type Of Wood   :W,
+	Width          :56.0,
+	Depth          :65.0,
+	Num Of Drawers :2,
+	Price          :£300.64, 
+?
+/ Id Num :303,
+	Type Of Wood   :O,
+	Width          :56.0,
+	Depth          :65.0,
+	Num Of Drawers :3,
+	Price          :£390.44, 
+?
+/ Id Num :303,
+	Type Of Wood   :O,
+	Width          :56.0,
+	Depth          :65.0,
+	Num Of Drawers :3,
+	Price          :£390.44, 
+?

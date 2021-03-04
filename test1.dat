@@ -1,0 +1,22 @@
+/ Id Num :101,
+	Type Of Wood   :W,
+	Arm Rest       :true,
+	Price          :£112.50, 
+?
+/ Id Num :101,
+	Type Of Wood   :O,
+	Arm Rest       :false,
+	Price          :£130.00, 
+?
+/ Id Num :101,
+	Type Of Wood   :O,
+	Arm Rest       :false,
+	Price          :£130.00, 
+?
+/ Id Num :303,
+	Type Of Wood   :W,
+	Width          :32.0,
+	Depth          :43.0,
+	Num Of Drawers :2,
+	Price          :£76.88, 
+?
